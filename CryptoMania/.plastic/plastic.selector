@@ -1,0 +1,4 @@
+repository "CryptoMania/CryptoMania@6872595105862@cloud"
+  path "/"
+    br "/main"
+    co "/main"
